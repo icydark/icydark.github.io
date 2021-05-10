@@ -96,3 +96,41 @@ TermSocket.open: Opened 1
 [I 10:59:01.494 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-05-10 11:09:11.027 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.027 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-10 11:09:11.027 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-10 11:09:11.027 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.028 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-10 11:09:11.028 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-10 11:09:11.038 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-05-10 11:09:11.038 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 11:09:11.048 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 11:09:11.049 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 11:09:11.050 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 11:09:11.050 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 11:09:11.050 NotebookApp] http://jupyter-icydark-2dicydark-2egithub-2eio-2dis21qxq1:8888/user/icydark-icydark.github.io-is21qxq1/?token=...
+[I 11:09:11.050 NotebookApp]  or http://127.0.0.1:8888/user/icydark-icydark.github.io-is21qxq1/?token=...
+[I 11:09:11.050 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:09:11.055 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:09:14.049 NotebookApp] 302 GET /user/icydark-icydark.github.io-is21qxq1/ (10.0.1.13) 1.400000ms
+[I 11:09:17.244 NotebookApp] 302 GET /user/icydark-icydark.github.io-is21qxq1/tree/Final_Part_III.ipynb?token=IFrspeQvS3mkwSsahzXT1g (130.126.143.106) 2.200000ms
+[W 11:09:24.351 NotebookApp] Notebook Final_Part_III.ipynb is not trusted
+[I 11:09:25.351 NotebookApp] Kernel started: 4fb53dfd-d610-4966-a791-dd1bacb6e01c, name: python3
+[I 11:09:25.352 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 11:09:25.352 NotebookApp] Culling kernels even with connected clients
+[I 11:09:25.363 NotebookApp] 302 GET /user/icydark-icydark.github.io-is21qxq1/notebooks/Major_Earthquakes.png (130.126.143.106) 2.540000ms
+[I 11:09:32.201 NotebookApp] Saving file at /Final_Part_III.ipynb
+[W 11:09:32.202 NotebookApp] Notebook Final_Part_III.ipynb is not trusted
+[I 11:09:32.303 NotebookApp] Starting buffering for 4fb53dfd-d610-4966-a791-dd1bacb6e01c:2f4ce31fc6cd49e98c3db704a7f4218a
+[W 11:09:37.530 NotebookApp] Notebook Final_Part_III.ipynb is not trusted
+[I 11:09:38.641 NotebookApp] 302 GET /user/icydark-icydark.github.io-is21qxq1/notebooks/Major_Earthquakes.png (130.126.143.106) 1.700000ms
+[I 11:09:48.409 NotebookApp] Starting buffering for 4fb53dfd-d610-4966-a791-dd1bacb6e01c:5f795dd57eea4c7a8bf62f8ec2d4e585
+[I 11:09:59.481 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
